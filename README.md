@@ -1,6 +1,4 @@
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/chaimanaanaa/chaimanaanaa/blob/main/images/wave.gif" width="30"></h2>
-<img src="https://github.com/chaimanaanaa/chaimanaanaa/blob/main/images/Hii.gif" >
-<hr>
 <br>
 <ul>
   <li>💻 I’m a passionate software engineering student dedicated to learning and building innovative solutions.</li>

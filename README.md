@@ -9,7 +9,6 @@
   <li>🚀 I'm determined to explore each possibility with boldness and passion.</li>
   <li>⚡ Fun fact: I love animals 🐾, especially cats 🐱.</li>
 </ul>
-<img src="https://github.com/chaimanaanaa/chaimanaanaa/blob/main/images/d.gif">
 
 <p align="center">
   <strong>Connect with me</strong><br>

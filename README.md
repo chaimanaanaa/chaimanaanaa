@@ -10,10 +10,7 @@
   <li>⚡ Fun fact: I love animals 🐾, especially cats 🐱.</li>
 </ul>
 
-<p align="center">
-  <strong>Connect with me</strong><br>
-  <img src="https://github.com/chaimanaanaa/chaimanaanaa/blob/main/images/Handshake.gif" width="200" height="200">
-</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chaima-naanaa" target="_blank">

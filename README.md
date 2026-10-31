@@ -1,5 +1,16 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Chaima Naanaa - Computer Engineering, Data Science and AI" width="100%">
+  <a href="https://chaimanaanaa.github.io" target="_blank">
+    <img src="./assets/banner.svg" alt="Chaima Naanaa - Computer Engineering, Data Science and AI" width="100%">
+  </a>
+</p>
+
+<h3 align="center">🐾 Click a cat to enter my interactive 3D world, where it will jump for you!</h3>
+
+<p align="center">
+  <a href="https://chaimanaanaa.github.io/?cat=0" target="_blank"><img src="./assets/cat-0.svg" width="160" alt="Luna the cat"></a>
+  <a href="https://chaimanaanaa.github.io/?cat=1" target="_blank"><img src="./assets/cat-1.svg" width="160" alt="Mango the cat"></a>
+  <a href="https://chaimanaanaa.github.io/?cat=2" target="_blank"><img src="./assets/cat-2.svg" width="160" alt="Snow the cat"></a>
+  <a href="https://chaimanaanaa.github.io/?cat=3" target="_blank"><img src="./assets/cat-3.svg" width="160" alt="Pixel the cat"></a>
 </p>
 
 <p align="center">

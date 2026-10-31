@@ -106,12 +106,4 @@ AI assistant that answers security compliance questionnaires (GDPR, DORA, ISO 27
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="./profile/stats.svg" alt="GitHub stats">
-  <img height="165" src="./profile/top-langs.svg" alt="Top languages">
-</p>
----
-
 <p align="center"><i>Thanks for visiting! Feel free to explore my repositories or reach out 🐾</i></p>

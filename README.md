@@ -6,12 +6,6 @@
 
 <h3 align="center">🐾 Click a cat to enter my interactive 3D world, where it will jump for you!</h3>
 
-<p align="center">
-  <a href="https://chaimanaanaa.github.io/?cat=0" target="_blank"><img src="./assets/cat-0.svg" width="160" alt="Luna the cat"></a>
-  <a href="https://chaimanaanaa.github.io/?cat=1" target="_blank"><img src="./assets/cat-1.svg" width="160" alt="Mango the cat"></a>
-  <a href="https://chaimanaanaa.github.io/?cat=2" target="_blank"><img src="./assets/cat-2.svg" width="160" alt="Snow the cat"></a>
-  <a href="https://chaimanaanaa.github.io/?cat=3" target="_blank"><img src="./assets/cat-3.svg" width="160" alt="Pixel the cat"></a>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chaima-naanaa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>

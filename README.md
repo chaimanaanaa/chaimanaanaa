@@ -40,7 +40,6 @@ I'm a Computer Engineering student at **ESPRIT**, specializing in **Data Science
   <img src="https://img.shields.io/badge/RAG-FF5FC8?style=for-the-badge" alt="RAG">
   <img src="https://img.shields.io/badge/Llama%203.1-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Llama 3.1">
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
-  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API">
   <img src="https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge" alt="Prompt Engineering">
   <img src="https://img.shields.io/badge/Embeddings-0F766E?style=for-the-badge" alt="Embeddings">
   <img src="https://img.shields.io/badge/Hybrid%20Search%20(Vector%20%2B%20BM25)-1F6FEB?style=for-the-badge" alt="Hybrid Search">

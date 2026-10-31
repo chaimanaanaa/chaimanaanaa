@@ -109,10 +109,9 @@ AI assistant that answers security compliance questionnaires (GDPR, DORA, ISO 27
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chaimanaanaa&show_icons=true&hide_border=true&bg_color=0d0721&title_color=ff5fc8&icon_color=7cf3ff&text_color=e9e4ff" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaimanaanaa&layout=compact&hide_border=true&bg_color=0d0721&title_color=ff5fc8&text_color=e9e4ff" alt="Top languages">
+  <img height="165" src="./profile/stats.svg" alt="GitHub stats">
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages">
 </p>
-
 ---
 
 <p align="center"><i>Thanks for visiting! Feel free to explore my repositories or reach out 🐾</i></p>
